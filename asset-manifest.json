@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/%7Breact-gh-pages%7D/static/js/main.b5b78385.chunk.js",
-    "main.js.map": "/%7Breact-gh-pages%7D/static/js/main.b5b78385.chunk.js.map",
-    "runtime-main.js": "/%7Breact-gh-pages%7D/static/js/runtime-main.3396fd72.js",
-    "runtime-main.js.map": "/%7Breact-gh-pages%7D/static/js/runtime-main.3396fd72.js.map",
-    "static/js/2.0382934c.chunk.js": "/%7Breact-gh-pages%7D/static/js/2.0382934c.chunk.js",
-    "static/js/2.0382934c.chunk.js.map": "/%7Breact-gh-pages%7D/static/js/2.0382934c.chunk.js.map",
-    "index.html": "/%7Breact-gh-pages%7D/index.html",
-    "static/js/2.0382934c.chunk.js.LICENSE.txt": "/%7Breact-gh-pages%7D/static/js/2.0382934c.chunk.js.LICENSE.txt",
-    "static/media/logo.971abdde.png": "/%7Breact-gh-pages%7D/static/media/logo.971abdde.png",
-    "static/media/melee.6ea14928.jpg": "/%7Breact-gh-pages%7D/static/media/melee.6ea14928.jpg"
+    "main.js": "/react-gh-pages/static/js/main.b5b78385.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.b5b78385.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.d821652e.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.d821652e.js.map",
+    "static/js/2.0382934c.chunk.js": "/react-gh-pages/static/js/2.0382934c.chunk.js",
+    "static/js/2.0382934c.chunk.js.map": "/react-gh-pages/static/js/2.0382934c.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "static/js/2.0382934c.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.0382934c.chunk.js.LICENSE.txt",
+    "static/media/logo.971abdde.png": "/react-gh-pages/static/media/logo.971abdde.png",
+    "static/media/melee.6ea14928.jpg": "/react-gh-pages/static/media/melee.6ea14928.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3396fd72.js",
+    "static/js/runtime-main.d821652e.js",
     "static/js/2.0382934c.chunk.js",
     "static/js/main.b5b78385.chunk.js"
   ]
